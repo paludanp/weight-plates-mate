@@ -1,8 +1,9 @@
 {
   "scripts": {
-     "test": "jest"
+    "test": "jest"
   },
   "devDependencies": {
+    "fast-check": "^2.21.0",
     "jest": "^27.4.7"
   }
 }
